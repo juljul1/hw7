@@ -63,32 +63,32 @@ header h1 {
 	padding-left: 0;
 	
 }
-#sidebar1 a {
+aside a {
 color:#000;
 }
-#sidebar1 a:hover {
+aside a:hover {
 text-decoration:underline;
 font-size:14px;
 }
-.lgp #sidebar1 {
+.lgp aside {
 	float: left; 
 	width: 200px; 
 	padding: 15px 10px 15px 20px;
 }
-.lgp #sidebar1 ul  {
+.lgp aside ul  {
 	margin: 0px;
 	padding-left: 20px;
 	line-height: 150%;
 }
-.lgp #sidebar1 ul  li {
+.lgp aside ul  li {
 margin:10px 0;
 }
-.lgp #sidebar1 ul  li a {
+.lgp aside ul  li a {
 	color:#000;
 	font-size:13px;
 	text-decoration:none;
 }
-.lgp #sidebar1 ul  li a:hover {
+.lgp aside ul  li a:hover {
 	color:#000;
 	/* font-size:14px; */
 	text-decoration:underline;
@@ -128,7 +128,7 @@ footer p {
     font-size: 1px;
     line-height: 0px;
 }
-.lgp .wrapper .header img {
+.lgp .wrapper header img {
 	margin: 10px;
 }
 .logo {
